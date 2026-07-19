@@ -26,6 +26,15 @@ export const metadata: Metadata = {
   title: "Software Engineer, FinTech Systems - Oladimeji Balogun",
   description:
     "Oladimeji balogun- Software engineer.",
+    alternates: {
+    canonical: "https://www.portfoliodev.engineer/"
+  },
+  openGraph: {
+    title: "Oladimeji Balogun - Software Engineer",
+    description: "finance Undergradutate | FinTech Systems | Researcher | Co Tech lead at WebDevConstruct",
+    url: "https://www.portfoliodev.engineer",
+    siteName: "Oladimeji Balogun - Software Engineer",
+  }
 };
 
 export default function RootLayout({
