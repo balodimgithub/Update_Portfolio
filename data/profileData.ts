@@ -209,7 +209,7 @@ export const projects: Project[] = [
    {
      id: "proj-8",
     title: "NFT MarketPlace",
-    description: "A multimedia sharing platform with friends and Family, where you can like, bookmark and update your profile Page.",
+    description: "A Web3 NFT Marketplace that allows users to buy, sell, and trade non-fungible tokens (NFTs) on the blockchain. It provides a user-friendly interface for browsing and discovering digital assets, as well as tools for managing and tracking NFT collections.",
     thumbnail: "/images/nft03.jpeg",
     //liveUrl: "https://modern-ai-user-interface.netlify.app/",
     githubUrl: "https://github.com/balodimgithub/NFT_APP",
