@@ -23,9 +23,9 @@ const mono = JetBrains_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Software Engineer, FinTech Systems",
+  title: "Software Engineer, FinTech Systems - Oladimeji Balogun",
   description:
-    "Oladimeji balogun- software engineer.",
+    "Oladimeji balogun- Software engineer.",
 };
 
 export default function RootLayout({
