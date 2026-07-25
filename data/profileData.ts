@@ -106,6 +106,15 @@ export const activities: Activity[] = [
       `Successfully deployed the AremxyPlug V2.0, Leading frontend development for a fintech startup, building user interfaces for payment systems and financial dashboards, while organizing meetings for the Frontend team and maintaining the distributed version control(GitHub) history and pull requests and
        collaborating closely with backend engineers to integrate APIs and ensure seamless user experiences.`,
   },
+   {
+    id: "act-6",
+    title: "Technical writer and Researcher at WebDevConstruct",
+    organization: "WebDevConstruct",
+    date: "2026",
+    image: "/images/Announcement.png",
+    description:
+      `Writing Technical articles and research papers on emerging technologies, software development best practices, and industry trends. Conducting in-depth research to provide valuable insights and recommendations for the tech community.`,
+  },
 ];
 
 export const projects: Project[] = [

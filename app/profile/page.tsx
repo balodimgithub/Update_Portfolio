@@ -3,7 +3,7 @@ import CertificatesSection from "@/components/CertificatesSection";
 import ActivitySection from "@/components/ActivitySection";
 import ProjectsSection from "@/components/ProjectsSection";
 import LearningSection from "@/components/LearningSection";
-
+import BlogSection from "@/components/BlogsSection";
 function SectionHeading({
   eyebrow,
   title,
@@ -45,14 +45,17 @@ export default function ProfilePage() {
         <SectionHeading eyebrow="02 — Timeline" title="Activity" />
         <ActivitySection />
       </section>
-
+        <section className="mb-24">
+        <SectionHeading eyebrow="03 — Docs, mental models and readings" title="Research" />
+  <BlogSection/>
+  </section>
       <section className="mb-24">
-        <SectionHeading eyebrow="03 — Built things" title="Projects" />
+        <SectionHeading eyebrow="04 — Built things" title="Projects" />
         <ProjectsSection />
       </section>
 
       <section>
-        <SectionHeading eyebrow="04 — Right now" title="Currently Learning" />
+        <SectionHeading eyebrow="05 — Right now" title="Currently Learning" />
         <LearningSection />
       </section>
     </div>
