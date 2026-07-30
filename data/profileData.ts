@@ -112,7 +112,7 @@ export const activities: Activity[] = [
     organization: "WebDevConstruct",
     date: "2026",
     image: "/images/Announcement.png",
-    description:
+    description:  
       `Writing Technical articles and research papers on emerging technologies, software development best practices, and industry trends. Conducting in-depth research to provide valuable insights and recommendations for the tech community.`,
   },
 ];
@@ -138,7 +138,7 @@ export const projects: Project[] = [
       "An Research AI-powered application that helps students with searching for the most pressing topics with models that are best-equivalent for features like letter generation, quick research with the assignment features and more to come.",
     thumbnail: "/images/ProfileFormatt.png",
     githubUrl: "https://github.com/WebDevConstruct/WDC_Formatt",
-    liveUrl: "",
+    liveUrl: "https://formatt.webdevconstruct.tech",
     stack: ["Clerk for authentication", "Edge Functions for latency in requests", "vercel to track logs",  "NeonPostgres for accurate and necessary information", "NEXTJS",  "Node.js", "Tailwind", "VsCode for development"],
     role: "Lead Developer",
   },
