@@ -144,7 +144,7 @@ export const projects: Project[] = [
   },
   {
     id: "proj-3",
-    title: "FINSA — Media Admin Management System",
+    title: "FINSA — Media Admin Management System (Under Maintenance)",
     description:
       `Built a dynamic media website for the Finance Student Association of the University of Lagos, Nigeria, 
       to help students and members of the association access information about events, news, and other resources related to finance and business.`,
