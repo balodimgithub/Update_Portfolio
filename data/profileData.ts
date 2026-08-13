@@ -144,14 +144,14 @@ export const projects: Project[] = [
   },
   {
     id: "proj-3",
-    title: "FINSA — Media Admin Management System (Under Maintenance)",
+    title: "FINSA — Media Admin Management System ",
     description:
       `Built a dynamic media website for the Finance Student Association of the University of Lagos, Nigeria, 
       to help students and members of the association access information about events, news, and other resources related to finance and business.`,
     thumbnail: "/images/FinsaWebsitePic.png",
     githubUrl: "https://github.com/FINSA-TECH-ORG/FINSA-FRONTEND",
     liveUrl: "https://finsa-unilag.com",
-    stack: ["NextJs", "Directus", "Render", "CronJob", "Typescript", "Railway", "NameCheap"],
+    stack: ["NextJs", "Directus", "Vercel", "CronJob", "Typescript", "Railway", "NameCheap"],
     role: "Frontend Engineer - Collaboration project.",
   },
   //You can exempt the liveUrl, The code structure understands that some projects may not have a  liveUrl..
